@@ -1,0 +1,110 @@
+.main_header{
+    display: inline-block;
+    margin-left: 200px;
+    margin-top: 50px;
+    font-size: 12px;
+}
+.main_navigation{
+    display: inline-block;
+}
+.header-content{
+    display: inline-block;
+}
+.header-content img{
+    display: inline-block;
+    height: 35px;
+    margin-right: 70px;
+}
+.main_header_logo{
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+.main_header_logo img{
+    display: inline-block;
+}
+
+.main_navigation_list{
+    display: inline-block;
+    margin-left: 25px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.menu{
+    display: inline-block;
+}
+.menu a{
+    display: inline-block;
+    margin-right: 25px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #6c757d;
+}
+.menu a:hover{
+    color: #efb6df;
+}
+.body_paragraph{
+    display: inline-block;
+    margin-left: 200px;
+    margin-top: 200px;
+    font-size: 15px;
+    line-height: 1.5;
+    color: #6c757d;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.body_main_header{
+    display: inline-block;
+    margin-left: 200px;
+    font-size: 60px;
+    font-weight: bold;
+    margin-top: -10px;
+   
+}
+.design_body{
+    display: inline-block;
+    margin-left: 200px;
+    font-size: 40px;
+    color: #6c757d;
+    margin-top: -30px;
+    vertical-align: text-top;
+
+}
+.body_img{
+    display: inline-block;
+    margin-left: 1000px;
+    vertical-align: text-top;
+    height: 600px;
+    
+    margin-top: -350px;
+}
+.main_section{
+    display: inline-block;
+}
+.body_button{
+    display: inline-block;
+    margin-left: 165px;
+    padding-left: 35px;
+    padding-right: 45px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: white;
+    
+    border-style: none;
+    
+    
+
+    
+}
+
+.body_button_link{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 15px;
+    border-radius: 1px;
+    padding-left: 35px;
+    padding-right: 45px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-image: linear-gradient(to right,  blue, rgb(247, 0, 255)); 
+}
